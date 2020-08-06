@@ -7,9 +7,19 @@ body {
     padding: 0;
 }
 
+#cabecera{
+    background: #33a;
+    box-shadow: 0px 5px 30px 0px rgba(162, 0, 255, 0.431);
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    font-size: 30px;
+}
+
 #container{
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 2px solid rgb(158, 26, 26);
     margin: 0 Auto;
@@ -17,4 +27,12 @@ body {
 
 #container h1{
     font-size: 20px;
+}
+#post{
+    padding: 1em;
+}
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: .8em;
 }
