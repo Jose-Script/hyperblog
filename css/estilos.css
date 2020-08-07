@@ -42,3 +42,10 @@ body {
     font: bold;
     box-shadow: 0px 5px 30px 0px rgba(53, 53, 223, 0.424);
 }
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: .5em;
+}
