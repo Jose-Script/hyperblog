@@ -49,3 +49,10 @@ body {
     vertical-align: middle;
     padding: 5px 8px 0px 5px;
 }
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: .5em;
+}
