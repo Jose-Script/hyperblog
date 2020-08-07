@@ -5,6 +5,7 @@ body {
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background: rgba(134, 10, 10, 0.205);
 }
 
 #cabecera{
@@ -12,7 +13,7 @@ body {
     box-shadow: 0px 5px 30px 0px rgba(162, 0, 255, 0.431);
     color: white;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em .5em;
     font-weight: bold;
     font-size: 30px;
 }
@@ -23,6 +24,7 @@ body {
     text-align: left;
     border: 2px solid rgb(158, 26, 26);
     margin: 0 Auto;
+    background: white;
 }
 
 #container h1{
@@ -41,4 +43,9 @@ body {
     font-size: 25px;
     font: bold;
     box-shadow: 0px 5px 30px 0px rgba(53, 53, 223, 0.424);
+}
+#cabecera #logo{
+    width: 80px;
+    vertical-align: middle;
+    padding: 5px 8px 0px 5px;
 }
