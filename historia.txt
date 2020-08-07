@@ -5,10 +5,7 @@ Esperimento 1
 Experimento 2
 Master 1
 Master 2
-<<<<<<< HEAD
-=======
 Hola que tal, este verso fue creado por mi
 incluye ejemplos en windows, linux y mac
->>>>>>> 7a56d62... Ejemplos en w, linux y mac
 
 Arigatoouu
